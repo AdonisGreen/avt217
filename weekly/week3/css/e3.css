@@ -24,13 +24,12 @@ li {
 h2,h3{
 	color: darkred;
 }
-p {line-height: 0.5}
 .posttime {
 	color: blueviolet;
 	font-size:0.7em; 
 }
 dt,dd {
-	
+	margin-left: 10%;
 }
 dfn,i {
 	
