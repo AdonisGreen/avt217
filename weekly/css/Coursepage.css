@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+ font-family: "Lora", serif;
+ font-optical-sizing: auto;
+ font-weight:10;
+ font-style: normal;
+ line-height: 1.7em;
+ background-color: aquamarine;
+}
+#wrapper{
+	padding:0 5%;
+	background-color: beige;
+	float: left;
+}
+
+.weekly{
+	width: 45%;
+	float:left;
+	margin: 0 5%;
+}
+
+#project{
+	width: 45%;
+	float:left;
+}
+
+h1{
+font-family: "am-novecento", sans-serif;
+font-weight: 400;
+font-style: normal;}
+
+h2{
+font-family: Gotham, 'Helvetica Neue', Helvetica, Arial,sans-serif;
+font-weight: 10;
+font-style: normal;}	
+
+h3{
+font-family: "Impact", sans-serif;
+font-weight: 20;
+font-style: normal;}	
+
+a:link{
+	color:brown;
+	text-decoration: none;
+}
+
+a:visited{
+	color:darkcyan;
+}
+
+a:hover{
+	color:yellowgreen;
+	text-decoration: underline
+}
+
+a:active{
+	color:orchid;
+}
+
+.demo{
+	font-family: "am-novecento", sans-serif;
+}
