@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	width: 70%;
+	margin: 0 auto;
+	position:relative;
+}
+
+img{
+	width: 70%;
+	height: auto;
+}
+
+.box1{
+	position: absolute;
+	right:5px;
+	top: 40px;
+	background-color: chartreuse;
+}
+
+.box2{
+	position: fixed;
+	top:0;
+	left:30px;
+	background-color: aqua;
+	padding: 20px 50px;
+}
+.insidebox2{
+	background-color: brown;
+}
+
+.box3{
+	position: static;
+	left:20px;
+	background-color: aquamarine;
+}
+
+.box4{
+	position:absolute;
+	right:5px;
+	bottom:40px;
+	background-color: fuchsia
+}
