@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    font-family: "oculi-display", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+	font-size:20px;
+    margin-left: 10%;
+    margin-right: 10%;
+	background-color: burlywood;
+}
+
+header{
+	text-align: center;
+	padding-bottom:10px;
+}
+
+dfn{
+	font-style: italic;
+	font-weight: 700;
+}
+
+h1{
+	font-family: "PT Serif", serif;
+	font-weight: 700;
+}
+
+h2{
+	font-family: "PT Serif", serif;
+}
+
+h3{
+   font-family: "PT Serif", serif;
+   font-weight: 700;
+   font-style: normal;
+	color:darkred;
+}
+p{
+	text-indent: 0.4in;
+	line-height: 2em;
+}
+
+ol{
+	font-style: oblique;
+	font-weight: 700;
+	margin-left: 100px;
+}
