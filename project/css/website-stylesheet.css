@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:darkorange;
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+font-size: 20px;
+}
+
+header{
+	background-color:darkgreen;
+	text-align: center;
+	padding-bottom:10px;
+}
+
+h1{
+	color:darkorange;
+}
+
+h2{
+	color:white;
+	text-align: center;
+}
+
+p{
+	color:white;
+	text-align: center;
+}
+li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 250px;
+	color: white;
+}
+
+a:link{
+	color:white;
+	text-decoration: none;
+}
+
+a:visited{
+	color:darkolivegreen;
+}
+
+a:hover{
+	color:yellowgreen;
+	text-decoration: underline
+}
+
+a:active{
+	color:saddlebrown;
+}
+
+img{
+	width:1568px;
+}
