@@ -22,7 +22,7 @@ header{
 footer{
 	background-color:darkgreen;
 	text-align: center;
-	padding-bottom: 100px;
+	padding-bottom: 200px;
 }
 
 h1{
@@ -93,4 +93,43 @@ img{
 	margin: 20px;
 	margin-left: 700px;
 	margin-right: 700px;
+}
+
+
+
+body2{
+	background-color:darkorange;
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+font-size: 20px;
+}
+#widecolumn{
+	background-color: black;
+	padding-top: 10px;
+}
+#logo2{
+	text-align: center;
+}
+
+
+
+body3{
+	background-color:darkorange;
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+font-size: 20px;
+}
+
+
+
+body4{
+	
+}
+#happy{
+	text-align: center;
+}
+#deal{
+	text-align: center;
 }
