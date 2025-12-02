@@ -20,9 +20,11 @@ header{
 }
 
 footer{
+	
 	background-color:darkgreen;
 	text-align: center;
 	padding-bottom: 200px;
+	
 }
 
 h1{
@@ -132,4 +134,48 @@ body4{
 }
 #deal{
 	text-align: center;
+}
+
+.menu-grid {
+  display:inline-block;
+	width:50%;
+float:left;
+}
+
+.menu-col{
+	float:left;
+	width:46%;
+	margin:auto 10%;
+}
+
+.item {
+  border-radius: 8px;
+  padding: 15px;
+  width: 200px;
+  text-align: center;
+}
+
+.item img {
+  width: 100%;
+  border-radius: 8px;
+	float:inherit;
+}
+
+.dish-name {
+  font-size: 1.25em;
+  margin-top: 10px;
+	text-align: center;
+}
+
+.price {
+  font-size: 1em;
+  margin-top: 5px;
+  font-weight: normal;
+}
+
+.section-title {
+  font-size: 1.75em;
+  margin-top: 0;
+  margin-bottom: 15px;
+text-align: center;
 }
